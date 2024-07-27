@@ -1,3 +1,12 @@
+
+# Project Title
+
+## Database Diagram
+
+![Database Diagram](images/database_diagram.png)
+[![](https://mermaid.ink/img/pako:eNrFl1tvmzAUx7-K5ee0KrS5vtGEtqjNRYRU2xQJucFJrAFmBrqxNt99vkBDAu26dGp4SM4RP2yf8z8-mCe4oB6GPYjZgKAVQ8E8BPy6su7MKXhSjriskQOIBya3YA4njASIZeAWZ3O4Re4Nu39j2CBEAebUFfExGHG7jglIgN0kiwQ4tIYmcLhdB37HmcuZWUh-pHh_Rsf84oCU-cVsM_tu5zYfeOoYwwlYMIwS7Lko4WhfOISGwOGLiBMURPUPpZG3fWgmneojm3mojNnUtA_NWBpjlmdtlpt12JKwOHFf0sudV_Proy15h94AcYCIyJ8p_uuACMXxT8o8EUVuljERJXpECWIcMJQhtbAGR5OiP56NHPvrx8q3T9Mw4dR-4j41kgmvqfHowED-Z7nInfZAKO8Q0Trj1GVhl6mB4ZhAhOTSpftAWLLm5ECESJfgUvhlWs68wqGHRe1cS2O_tBZKBZd4JUl2S0tgkcqEy39XuJQZS_rHrsfh-N4yDxQxIYkvmyR9JGIO7lV08XC8YCSSC-f53nplcjQbmrbVBw-pt8Ji2ZfSqMjHsI9RjF0Z0xzaygVCxf2seylDxaS5WUEIw4uECoEHhVmV770q0ziRtTJRxtH7DBfI6DuH9_2i1awRQwsRUe22e5e8JtcXMCprxaZ-RSuUq2C8IkEg6ksJoErtiHm9Nke2-bGU8m7C8HF7t9z1taH8JdcCWYn1K0SFckQ5roz7sW051fOgOLaoNYpTy78Xlew3yPP4SvJuYwin0ms-95V7M3bG-5FGmMU0VJFMpF0T7ZK3I4UcuzGp0_vz88kJfc4Ppj3-nDqnFfQOlB80BLXzLi3g4khVxbe9u3Zg9e6T48qmXUD5CBWqeGG8MvEWrM6r7uVgqTcLuqjE-un3YFRewM6opT1dN6q6U88WO7pglSw5u91iAs33Ve0Kdsm3w1KlLHNf1G-9-C9cXsKCgg0YYMa_Cjz-dSi3wxwmaywaqtQJL1Hqy-PDhqMoTeg0Cxewl7AUNyCj6WoNe0vkx9xT1Zt_YBZIhMJvlJZd2HuCv2Dv5LzdPO00u1pXa-ma1tS7zQbMYE_TtdOmdqG12t22pjfPWpsG_C1H0E_Pz5odXe9cdPX2eaujtTZ_AGheamY?type=png)](https://mermaid.live/edit#pako:eNrFl1tvmzAUx7-K5ee0KrS5vtGEtqjNRYRU2xQJucFJrAFmBrqxNt99vkBDAu26dGp4SM4RP2yf8z8-mCe4oB6GPYjZgKAVQ8E8BPy6su7MKXhSjriskQOIBya3YA4njASIZeAWZ3O4Re4Nu39j2CBEAebUFfExGHG7jglIgN0kiwQ4tIYmcLhdB37HmcuZWUh-pHh_Rsf84oCU-cVsM_tu5zYfeOoYwwlYMIwS7Lko4WhfOISGwOGLiBMURPUPpZG3fWgmneojm3mojNnUtA_NWBpjlmdtlpt12JKwOHFf0sudV_Proy15h94AcYCIyJ8p_uuACMXxT8o8EUVuljERJXpECWIcMJQhtbAGR5OiP56NHPvrx8q3T9Mw4dR-4j41kgmvqfHowED-Z7nInfZAKO8Q0Trj1GVhl6mB4ZhAhOTSpftAWLLm5ECESJfgUvhlWs68wqGHRe1cS2O_tBZKBZd4JUl2S0tgkcqEy39XuJQZS_rHrsfh-N4yDxQxIYkvmyR9JGIO7lV08XC8YCSSC-f53nplcjQbmrbVBw-pt8Ji2ZfSqMjHsI9RjF0Z0xzaygVCxf2seylDxaS5WUEIw4uECoEHhVmV770q0ziRtTJRxtH7DBfI6DuH9_2i1awRQwsRUe22e5e8JtcXMCprxaZ-RSuUq2C8IkEg6ksJoErtiHm9Nke2-bGU8m7C8HF7t9z1taH8JdcCWYn1K0SFckQ5roz7sW051fOgOLaoNYpTy78Xlew3yPP4SvJuYwin0ms-95V7M3bG-5FGmMU0VJFMpF0T7ZK3I4UcuzGp0_vz88kJfc4Ppj3-nDqnFfQOlB80BLXzLi3g4khVxbe9u3Zg9e6T48qmXUD5CBWqeGG8MvEWrM6r7uVgqTcLuqjE-un3YFRewM6opT1dN6q6U88WO7pglSw5u91iAs33Ve0Kdsm3w1KlLHNf1G-9-C9cXsKCgg0YYMa_Cjz-dSi3wxwmaywaqtQJL1Hqy-PDhqMoTeg0Cxewl7AUNyCj6WoNe0vkx9xT1Zt_YBZIhMJvlJZd2HuCv2Dv5LzdPO00u1pXa-ma1tS7zQbMYE_TtdOmdqG12t22pjfPWpsG_C1H0E_Pz5odXe9cdPX2eaujtTZ_AGheamY)
+
+
 erDiagram
     FILES {
         INT id PK "Primary Key"
@@ -24,6 +33,8 @@ erDiagram
     COUNTRY {
         INT id PK "Primary Key"
         VARCHAR name "Country Name"
+        TIMESTAMP created_at "Creation Timestamp"
+        TIMESTAMP updated_at "Update Timestamp"
     }
 
     PERSON {
@@ -57,7 +68,7 @@ erDiagram
         INT id PK "Primary Key"
         VARCHAR name "Character Name"
         TEXT description "Description"
-        VARCHAR role "Role"
+        ENUM role "Role"
         INT actor "Actor ID"
         INT movie_id "Movie ID"
         TIMESTAMP created_at "Creation Timestamp"
@@ -79,7 +90,7 @@ erDiagram
     }
 
     FAVORITES {
-        INT person_id "Person ID"
+        INT user_id "User ID"
         INT movie_id "Movie ID"
         DATE added_date "Added Date"
         TIMESTAMP created_at "Creation Timestamp"
@@ -103,7 +114,7 @@ erDiagram
     PERSON ||--o| CHARACTERS : "actor"
     MOVIE ||--o| MOVIEGENRE : "movie_id"
     GENRE ||--o| MOVIEGENRE : "genre_id"
-    PERSON ||--o| FAVORITES : "person_id"
+    USERS ||--o| FAVORITES : "user_id"
     MOVIE ||--o| FAVORITES : "movie_id"
     PERSON ||--o| PHOTO : "person_id"
     FILES ||--o| PHOTO : "file_id"
